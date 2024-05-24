@@ -18,6 +18,8 @@ export const IndividualProject = () => {
     { id: 6, name: "Weather Dashboard", img: Weather, demo: 'https://rickyricer.github.io/Weather-Dashboard-Using-APIs/', code: 'https://github.com/RickyRicer/Weather-Dashboard-Using-APIs'}
   ];
 
+  console.log(projects)
+
   return (
     <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
         {projects.map((project) => (
