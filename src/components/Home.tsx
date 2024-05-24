@@ -1,10 +1,9 @@
 import React from 'react'
 import Typewriter from 'typewriter-effect'
 import { Link } from 'react-scroll'
-// import * as CV from '../assets/Rick-A-Ansay.pdf'
+import cvPDF from '../assets/pdf/Rick-A-Ansay.pdf'
 
 export const Home = () => {
-
 
   return (
     <div id="home" className="w-full h-screen bg-[#0a192f]">
@@ -21,7 +20,7 @@ export const Home = () => {
                     </button>
                 </Link>
                 <button className="text-white border-2 px-6 py-3 my-2 flex items-center hover:bg-yellow-300 hover:border-yellow-300">
-                    <a href={"CV"} download="CV Rick Ansay">{("Resume")}</a>
+                    <a href={cvPDF} download="CV Rick Ansay">{("Resume")}</a>
                 </button>
             </div>
         </div>

@@ -1,6 +1,6 @@
 import * as React from 'react';
 
-export const AboutMe: React.FC = () => {
+export const AboutMe = () => {
 
 
   return (
