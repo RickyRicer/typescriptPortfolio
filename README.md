@@ -1,46 +1,64 @@
-# Getting Started with Create React App
+# Rick Ansay React Portfolio 👋
+ 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of Contents
 
-## Available Scripts
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
 
-In the project directory, you can run:
+## Description
 
-### `npm start`
+<a href="https://rickyricer.github.io/reactPortfolio/">View Demo!</a> <br />
+<br />
+[![Product Name Screen Shot][product-screenshot]](#) <br />
+This is my newly redesigned portfolio! Powered by React! Thanks for taking a look!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Installation
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+1. Clone the repo
+```sh
+git clone https://github.com/your_username_/Project-Name.git
+```
+2. Install NPM packages
+```sh
+npm install
+```
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Usage
 
-### `npm run build`
+This portfolio was created to show-off the projects and skills I have acquired while becoming a web dev. 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## License
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This application is covered by the MIT license. 
 
-### `npm run eject`
+## Contributing
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+You can contribute to this project by adhering to the code of conduct as mentioned: [here](https://www.contributor-covenant.org/#:~:text=Contributor%20Covenant%20is%20a%20code,that%20distinguish%20your%20own%20community)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Tests
 
-## Learn More
+No testing is provided with this suite.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Questions
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+✋ If you have any questions, please contact me through email or github, listed below:<br />
+<br />
+Find me on GitHub: [RickyRicer](https://github.com/RickyRicer)<br />
+<br />
+✉️ Email me with any questions: rick.ansay@gmail.com<br /><br />
+🖖 This README was generated with ❤️ by [README-generator](https://github.com/RickyRicer/README-Generator) 🔥🔥🔥
+    
+  <!-- MARKDOWN LINKS & IMAGES -->
+[product-screenshot]: img/screenshot.png
