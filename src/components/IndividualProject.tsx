@@ -1,4 +1,3 @@
-import * as React from "react";
 import * as Blog from '../assets/blog-preview.png';
 import * as EmployeeTracker from '../assets/employeeTracker.png';
 import * as MoonBay from '../assets/moonbay.png';

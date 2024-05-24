@@ -1,7 +1,7 @@
 import React from 'react'
 import Typewriter from 'typewriter-effect'
 import { Link } from 'react-scroll'
-// import { CV } from '../assets/Rick-A-Ansay.pdf'
+// import * as CV from '../assets/Rick-A-Ansay.pdf'
 
 export const Home = () => {
 
