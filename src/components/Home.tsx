@@ -1,7 +1,6 @@
 import React from 'react'
 import Typewriter from 'typewriter-effect'
 import { Link } from 'react-scroll'
-import cvPDF from '../assets/pdf/Rick-A-Ansay.pdf'
 
 export const Home = () => {
 
@@ -20,7 +19,7 @@ export const Home = () => {
                     </button>
                 </Link>
                 <button className="text-white border-2 px-6 py-3 my-2 flex items-center hover:bg-yellow-300 hover:border-yellow-300">
-                    <a href={cvPDF} download="CV Rick Ansay">{("Resume")}</a>
+                <a href="/assets/pdf/Rick-A-Ansay.pdf" download="CV Rick Ansay">Resume</a>
                 </button>
             </div>
         </div>
